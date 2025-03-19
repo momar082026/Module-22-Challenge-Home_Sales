@@ -6,6 +6,6 @@ In this challenge, we use our knowledge of SparkSQL to determine key metrics abo
 
 # Instruction to run code
 
-Clone the Repository
-Open the Home_Sales_colab.ipynb file in Google colab
+Clone the Repository.
+Open the Home_Sales_colab.ipynb file in Google colab.
 Run all the cells to output results.
